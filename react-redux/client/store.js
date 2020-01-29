@@ -3,7 +3,7 @@ import { syncHistoryWithStore } from 'react-router-dom';
 import { browserHistory } from 'react-router';
 import rootReducer from './reducers/index';
 import comments from './data/comments';
-import postes from './data/posts';
+import posts from './data/posts';
 
 const defaultState = {
     posts,
