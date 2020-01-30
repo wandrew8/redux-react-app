@@ -1,6 +1,5 @@
 import React from 'react';
 import Photo from './Photo';
-import CSSTransitionGroup from 'react-addons-css-transition-group';
 
 
 const PhotoGrid = React.createClass({
